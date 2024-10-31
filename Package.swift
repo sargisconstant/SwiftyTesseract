@@ -52,6 +52,6 @@ let package = Package(
       name: "SwiftyTesseract",
       targets: ["SwiftyTesseract"]),
   ],
-  dependencies: dependencies,
+//  dependencies: dependencies,
   targets: targets
 )
