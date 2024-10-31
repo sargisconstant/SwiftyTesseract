@@ -1,0 +1,15 @@
+{
+  "originHash" : "5d18cea67d7074a25fbb4b7b0bfdfb9f78d113580668ba659f75cea85ea1c071",
+  "pins" : [
+    {
+      "identity" : "libtesseract",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sargisconstant/libtesseract,
+      "state" : {
+        "branch" : "main",
+        "revision" : "cbc25938bda415d978c15e4915c0446d1555abb6"
+      }
+    }
+  ],
+  "version" : 1
+}
